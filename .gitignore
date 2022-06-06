@@ -1,0 +1,6 @@
+node_modules/
+tours.json
+tour5.json
+reviews.json
+img
+/config.env
